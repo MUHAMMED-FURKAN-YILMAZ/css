@@ -1,0 +1,41 @@
+* {
+  font-size: 1rem;
+}
+
+body {
+  background-color: bisque;
+}
+
+.anasayfa {
+  background-color: cornsilk;
+}
+p.anasayfa {
+  background-color: violet;
+}
+#ana-orta {
+  background-color: blue;
+}
+
+.iletisim {
+  background-color: brown;
+}
+#iletisim-orta {
+  background-color: olive;
+}
+
+.personeller {
+  background-color: chocolate;
+}
+#personeller-orta {
+  background-color: thistle;
+}
+
+p {
+  color: palevioletred;
+  text-align: center;
+  font-size: 16px;
+}
+
+ul {
+  text-align: right;
+}
