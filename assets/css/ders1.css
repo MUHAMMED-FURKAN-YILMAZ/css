@@ -1,0 +1,10 @@
+.araBaslik {
+  color: green;
+  background-color: darkgrey !important;
+}
+h3.digerBaslik {
+  background-color: yellow;
+}
+p.digerBaslik {
+  background-color: lightgrey;
+}

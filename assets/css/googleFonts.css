@@ -1,0 +1,7 @@
+/*
+    google font ekleme 2. yol --> .html uzanlı dosyada link kısmını silip css icine bu importu yerlestiriyoruz
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&family=Rubik+Glitch&family=Rubik:wght@600&display=swap');
+*/
+* {
+  font-family: "Rubik Glitch", cursive;
+}
